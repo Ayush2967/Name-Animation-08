@@ -1,3 +1,9 @@
 # Name-Animation-08
-## Live Demo
-here()
+Name animation 08 (<a href="https://ayush2967.github.io/Name-Animation-08/"> see here</a>)
+## Preview
+<img src="Screenshot 2023-06-09 102350.png">
+<hr>
+<p align="center">
+  Made By Ayush Jain with ❤️
+  </p>
+  
